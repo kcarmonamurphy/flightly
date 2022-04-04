@@ -1,6 +1,6 @@
 # flightly
 
-This repo is a collection of resources from my final project for the `SCS 3252:017 Big Data Management Systems & Tools` course (University of Toronto) taken in the last four months of 2019. It includes the final paper [Comparing Neo4j with PostgreSQL](./Big%20Data%20Course_%20Comparing%20Neo4j%20with%20PostgreSQL.pdf) as well as the accompanying [Jupyter notebook](./Flightly%20Comparing%20Neo4j%20and%20PostgreSQL.ipynb).
+This repo is a collection of resources from my final project for the `SCS 3252:017 Big Data Management Systems & Tools` course (University of Toronto) taken in the last four months of 2019. It includes my final project submission PDF [Comparing Neo4j with PostgreSQL](./Big%20Data%20Course_%20Comparing%20Neo4j%20with%20PostgreSQL.pdf) as well as the accompanying [Jupyter notebook](./Flightly%20Comparing%20Neo4j%20and%20PostgreSQL.ipynb).
 
 ### TL;DR
 
